@@ -12,5 +12,5 @@ After testing the code with texts extracted from "And Then There Were None" by A
 and "Rules for Perfect Murders" by Peter Swanson, I found that the model generated texts which was 22% similar to original text of Agatha Christie,
 27% similar to that of Murakami and 23% to that of Peter Swanson.
 
-<b>Conclusion</b>
+<b>Conclusion</b> \\
 This percentage could have been higher if a model with a larger number of parameters were used and a input of a higher size was used for text generation.
